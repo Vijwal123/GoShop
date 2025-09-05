@@ -33,3 +33,23 @@ It provides secure user authentication with JWT, role-based access control, prod
 
 ## 📁 Project Structure
 
+goshop/
+├── go.mod
+├── main.go
+├── .env.example
+├── database/
+│ └── connect.go
+├── models/
+│ ├── user.go
+│ ├── product.go
+│ ├── cart.go
+│ └── order.go
+├── handlers/
+│ ├── user_handler.go
+│ ├── auth_handler.go
+│ ├── product_handler.go
+│ ├── cart_handler.go
+│ └── order_handler.go
+└── middleware/
+└── auth.go 
+
