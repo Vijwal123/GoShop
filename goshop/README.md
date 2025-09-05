@@ -1,7 +1,4 @@
-# GoShop 🛒
-
-GoShop is a lightweight, modern e-commerce backend built with **Go (Golang)**, **Fiber web framework**, **GORM ORM**, and **PostgreSQL**.  
-It provides secure user authentication with JWT, role-based access control, product management, shopping cart functionality, and order processing.  
+  
 
 ---
 
